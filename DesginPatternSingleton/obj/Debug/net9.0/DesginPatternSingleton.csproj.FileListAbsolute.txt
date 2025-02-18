@@ -1,0 +1,14 @@
+X:\VisualStudio\DesginPatternSingleton\bin\Debug\net9.0\DesginPatternSingleton.exe
+X:\VisualStudio\DesginPatternSingleton\bin\Debug\net9.0\DesginPatternSingleton.deps.json
+X:\VisualStudio\DesginPatternSingleton\bin\Debug\net9.0\DesginPatternSingleton.runtimeconfig.json
+X:\VisualStudio\DesginPatternSingleton\bin\Debug\net9.0\DesginPatternSingleton.dll
+X:\VisualStudio\DesginPatternSingleton\bin\Debug\net9.0\DesginPatternSingleton.pdb
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\DesginPatternSingleton.GeneratedMSBuildEditorConfig.editorconfig
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\DesginPatternSingleton.AssemblyInfoInputs.cache
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\DesginPatternSingleton.AssemblyInfo.cs
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\DesginPatternSingleton.csproj.CoreCompileInputs.cache
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\DesginPatternSingleton.dll
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\refint\DesginPatternSingleton.dll
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\DesginPatternSingleton.pdb
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\DesginPatternSingleton.genruntimeconfig.cache
+X:\VisualStudio\DesginPatternSingleton\obj\Debug\net9.0\ref\DesginPatternSingleton.dll
