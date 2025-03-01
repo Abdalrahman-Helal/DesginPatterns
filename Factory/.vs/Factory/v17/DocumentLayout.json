@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\VisualStudio\\Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|x:\\visualstudio\\factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|x:\\visualstudio\\factory\\banka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|solutionrelative:banka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|x:\\visualstudio\\factory\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|solutionrelative:ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|x:\\visualstudio\\factory\\bankb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|solutionrelative:bankb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|x:\\visualstudio\\factory\\bankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|solutionrelative:bankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|x:\\visualstudio\\factory\\ibankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDA2C02-B72C-4013-8F10-6CDD3B1CAC22}|Factory.csproj|solutionrelative:ibankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBankFactory.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\Factory\\IBankFactory.cs",
+              "RelativeDocumentMoniker": "IBankFactory.cs",
+              "ToolTip": "X:\\VisualStudio\\Factory\\IBankFactory.cs",
+              "RelativeToolTip": "IBankFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:49:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankB.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\Factory\\BankB.cs",
+              "RelativeDocumentMoniker": "BankB.cs",
+              "ToolTip": "X:\\VisualStudio\\Factory\\BankB.cs",
+              "RelativeToolTip": "BankB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:40:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "X:\\VisualStudio\\Factory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:36:37.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankFactory.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\Factory\\BankFactory.cs",
+              "RelativeDocumentMoniker": "BankFactory.cs",
+              "ToolTip": "X:\\VisualStudio\\Factory\\BankFactory.cs",
+              "RelativeToolTip": "BankFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:49:34.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBank.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\Factory\\IBank.cs",
+              "RelativeDocumentMoniker": "IBank.cs",
+              "ToolTip": "X:\\VisualStudio\\Factory\\IBank.cs",
+              "RelativeToolTip": "IBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:50:06.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankA.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\Factory\\BankA.cs",
+              "RelativeDocumentMoniker": "BankA.cs",
+              "ToolTip": "X:\\VisualStudio\\Factory\\BankA.cs",
+              "RelativeToolTip": "BankA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:39:21.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
