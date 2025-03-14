@@ -1,0 +1,14 @@
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfoInputs.cache
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfo.cs
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\AdapterPattern.csproj.CoreCompileInputs.cache
+X:\VisualStudio\AdapterPattern\bin\Debug\net9.0\AdapterPattern.exe
+X:\VisualStudio\AdapterPattern\bin\Debug\net9.0\AdapterPattern.deps.json
+X:\VisualStudio\AdapterPattern\bin\Debug\net9.0\AdapterPattern.runtimeconfig.json
+X:\VisualStudio\AdapterPattern\bin\Debug\net9.0\AdapterPattern.dll
+X:\VisualStudio\AdapterPattern\bin\Debug\net9.0\AdapterPattern.pdb
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\AdapterPattern.dll
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\refint\AdapterPattern.dll
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\AdapterPattern.pdb
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\AdapterPattern.genruntimeconfig.cache
+X:\VisualStudio\AdapterPattern\obj\Debug\net9.0\ref\AdapterPattern.dll

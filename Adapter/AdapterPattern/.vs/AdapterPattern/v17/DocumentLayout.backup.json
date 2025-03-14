@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\VisualStudio\\AdapterPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|x:\\visualstudio\\adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|x:\\visualstudio\\adapterpattern\\salaryadpater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|solutionrelative:salaryadpater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|x:\\visualstudio\\adapterpattern\\salarycalaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|solutionrelative:salarycalaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|x:\\visualstudio\\adapterpattern\\machineoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|solutionrelative:machineoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|x:\\visualstudio\\adapterpattern\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A079568A-8AD0-4015-A434-2B5E7145E971}|AdapterPattern.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryAdpater.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\AdapterPattern\\SalaryAdpater.cs",
+              "RelativeDocumentMoniker": "SalaryAdpater.cs",
+              "ToolTip": "X:\\VisualStudio\\AdapterPattern\\SalaryAdpater.cs",
+              "RelativeToolTip": "SalaryAdpater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:08:55.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryCalaculator.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\AdapterPattern\\SalaryCalaculator.cs",
+              "RelativeDocumentMoniker": "SalaryCalaculator.cs",
+              "ToolTip": "X:\\VisualStudio\\AdapterPattern\\SalaryCalaculator.cs",
+              "RelativeToolTip": "SalaryCalaculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:01:59.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MachineOperator.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\AdapterPattern\\MachineOperator.cs",
+              "RelativeDocumentMoniker": "MachineOperator.cs",
+              "ToolTip": "X:\\VisualStudio\\AdapterPattern\\MachineOperator.cs",
+              "RelativeToolTip": "MachineOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:01:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\AdapterPattern\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "X:\\VisualStudio\\AdapterPattern\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:59:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\AdapterPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "X:\\VisualStudio\\AdapterPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:57:53.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
